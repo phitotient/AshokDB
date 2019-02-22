@@ -1,0 +1,10 @@
+{
+    "PUT": [{"success": 0, "error": 0}],
+    "GET": [{"success": 0, "error": 0}],
+    "GETLIST": [{"success": 0, "error": 0}],
+    "PUTLIST": [{"success": 0, "error": 0}],
+    "INCREMENT": [{"success": 0, "error": 0}],
+    "APPEND": [{"success": 0, "error": 0}],
+    "DELETE": [{"success": 0, "error": 0}],
+    "STATS": [{"success": 0, "error": 0}]
+}
